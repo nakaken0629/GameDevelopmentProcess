@@ -1,2 +1,2 @@
-# GameDevelopmentProcess
-ゲーム開発をするための開発プロセスマニュアル
+# Introduction
+
