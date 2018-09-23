@@ -1,2 +1,3 @@
-# Introduction
+# はじめに
 
+これは、ソーシャルゲーム開発にUP（Unified Process）を適用するためのドキュメントです。

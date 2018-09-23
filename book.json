@@ -1,4 +1,10 @@
 {
-    "plugins": ["-sharing","hide-published-with"],
-    "language": "ja"
+    "plugins": ["-sharing","hide-published-with", "toc"],
+    "language": "ja",
+    "pluginsConfig": {
+        "toc": {
+            "addClass": true,
+            "className": "toc"
+        }
+    }
 }
